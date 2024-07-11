@@ -1,0 +1,26 @@
+#Footer {
+    margin-top: 140px;
+    position: absolute;
+    bottom: auto;
+    width: 100%;
+    color: white;
+    background-color: #20405f;
+
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    margin: 20px;
+
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
